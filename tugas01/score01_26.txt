@@ -1,0 +1,6 @@
++10 tugas selesai minimal 5 lagu
++10 untuk 5 link ok
++2 untuk gambar backgound index.html
++5 untuk halaman lagu yang bisa back ke index html
++2 link ke facebook anda dengan halaman index
+-3 untuk 3 lagu tanpa gambar
