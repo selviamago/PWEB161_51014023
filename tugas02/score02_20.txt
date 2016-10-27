@@ -1,0 +1,7 @@
+20/10/16
++10 tugas siap
+-10 untuk setiap penggunaan opsi tag kecuali<img>.<a>
+
+27/10/16
++10 untuk tugas dikerjakan
++10 untuk setiap pemanggilan class yang sama dalam HTML
