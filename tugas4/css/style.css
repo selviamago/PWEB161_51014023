@@ -1,0 +1,38 @@
+img
+{
+	max-width: 250px;
+	border-radius: 20%;
+	max-height: 300px;	
+	border: 1px #ffcccc;
+	border-radius: 20px;
+	border-top-style: solid;
+	border-top: 5px solid #D99A6C;
+	border-left-style: solid;
+	border-left: 5px solid #D99A6C;
+	border-bottom-style: solid;
+	border-bottom: 5px solid #D99A6C;
+	border-right-style: solid;
+	border-right: 5px solid #D99A6C;
+}
+
+p
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: verdana;	
+}
+
+#about,header,.navbar-brand
+{
+	background-color:#FFCBA4;
+	font-size: 12px;	
+}
+#about,Portfolio Grid Section,.navbar-brand
+{
+	background-color:#FFCBA4;
+}
+#mainNav
+{
+	background-color:#FFD0B9 ;
+	
+}
