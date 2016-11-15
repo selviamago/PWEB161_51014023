@@ -1,0 +1,5 @@
+theme: freelancer (https://startbootstrap.com/template-overview/freelancer/)
+
++10 untuk tugas yang di-commit terakhir selambatnya tanggal 9/11/16 23:59:59
++6 untuk setiap commit setelah commit pertama sebelum tanggal 9/11/16 23:59:59
++4 untuk setiap selector theme yang diover-ride
