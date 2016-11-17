@@ -1,0 +1,213 @@
+ body
+{
+	background: #FFCBA4;
+  	font-family: verdana;
+	font-variant: small-caps;
+	font-size: 20px;
+	color: #AF593E;
+}
+.navbar-brand
+{
+	background: #FFCBA4;
+  	font-family: verdana;
+	font-variant: small-caps;
+	font-size: 20px;
+	color: #AF593E;
+}
+
+.navbar  
+{
+	background: #FFCBA4;
+  	font-family: verdana;
+	font-variant: small-caps;
+	font-size: 20px;
+	color: #AF593E;
+}
+
+navbar-fixed-top
+{
+	background: #FFCBA4;
+  	font-family: verdana;
+	font-variant: small-caps;
+	font-size: 20px;
+	color: #AF593E;
+}
+
+navbar-inverse
+{
+	background: #FFCBA4;
+  	font-family: verdana;
+	font-variant: small-caps;
+	font-size: 20px;
+	color: #AF593E;
+}
+
+.container
+{
+	background: #FFCBA4;
+  	font-family: verdana;
+	font-variant: small-caps;
+	font-size: 20px;
+	color: #AF593E;
+}
+
+.active
+{
+	background: #FFCBA4;
+  	font-family: verdana;
+	font-variant: small-caps;
+	font-size: 20px;
+	color: #AF593E;
+}
+
+.jumbotron
+{
+	background: #FDD5B1;
+	color: #9E5B40;
+}
+
+.col-xs-12 sidebar-offcanvas
+{
+	color: #9E5B40;
+	background-color: #FDD5B1;
+	max-width: 1600px;
+	border-radius: 1%;
+	max-height: 1600px;	
+	border: 1px #ffcccc;
+	border-radius: 5px;
+	border-top-style: solid;
+	border-top: 1px solid #D27D46;
+	border-left-style: solid;
+	border-left: 1px solid #D27D46;
+	border-bottom-style: solid;
+	border-bottom: 1px solid #D27D46;
+	border-right-style: solid;
+	border-right: 1px solid #D27D46;
+}
+
+.list-group
+{
+	color: #9E5B40;
+	background-color: #FDD5B1;
+	max-width: 1600px;
+	border-radius: 1%;
+	max-height: 1600px;	
+	border: 1px #ffcccc;
+	border-radius: 5px;
+	border-top-style: solid;
+	border-top: 1px solid #D27D46;
+	border-left-style: solid;
+	border-left: 1px solid #D27D46;
+	border-bottom-style: solid;
+	border-bottom: 1px solid #D27D46;
+	border-right-style: solid;
+	border-right: 1px solid #D27D46;
+}
+
+.col-xs-6 col-lg-6,.row
+{
+	color: #9E5B40;
+	background-color: #FDD5B1;
+	max-width: 1600px;
+	border-radius: 1%;
+	max-height: 1600px;	
+	border: 1px #ffcccc;
+	border-radius: 5px;
+	border-top-style: solid;
+	border-top: 1px solid #D27D46;
+	border-left-style: solid;
+	border-left: 1px solid #D27D46;
+	border-bottom-style: solid;
+	border-bottom: 1px solid #D27D46;
+	border-right-style: solid;
+	border-right: 1px solid #D27D46;
+}
+
+.list-group-item
+{
+	background: #FDD5B1;
+	max-width: 300px;
+	border-radius: 1%;
+	max-height: 300px;	
+	border: 1px #ffcccc;
+	border-radius: 10px;
+	border-top-style: solid;
+	border-top: 1px solid #D27D46;
+	border-left-style: solid;
+	border-left: 1px solid #D27D46;
+	border-bottom-style: solid;
+	border-bottom: 1px solid #D27D46;
+	border-right-style: solid;
+	border-right: 1px solid #D27D46;
+}
+
+h1,h2
+{
+	color: #664228;
+	max-width: 500px;
+	border-radius: 1%;
+	max-height: 500px;	
+	border: 1px #ffcccc;
+	border-radius: 10px;
+	border-top-style: solid;
+	border-top: 5px solid #D27D46;
+	border-left-style: solid;
+	border-left: 5px solid #D27D46;
+	border-bottom-style: solid;
+	border-bottom: 5px solid #D27D46;
+	border-right-style: solid;
+	border-right: 5px solid #D27D46;
+}
+}
+
+btn-default
+{
+	background: #FFCBA4; 
+	color: #664228;
+	max-width: 500px;
+	border-radius: 1%;
+	max-height: 500px;	
+	border: 1px #ffcccc;
+	border-radius: 10px;
+	border-top-style: solid;
+	border-top: 5px solid #D27D46;
+	border-left-style: solid;
+	border-left: 5px solid #D27D46;
+	border-bottom-style: solid;
+	border-bottom: 5px solid #D27D46;
+	border-right-style: solid;
+	border-right: 5px solid #D27D46;
+}
+
+.btn 
+{
+	color: #664228;
+	max-width: 500px;
+	border-radius: 1%;
+	max-height: 500px;	
+	border: 1px #ffcccc;
+	border-radius: 10px;
+	border-top-style: solid;
+	border-top: 5px solid #D27D46;
+	border-left-style: solid;
+	border-left: 5px solid #D27D46;
+	border-bottom-style: solid;
+	border-bottom: 5px solid #D27D46;
+	border-right-style: solid;
+	border-right: 5px solid #D27D46;	
+}
+
+p
+{
+	font-family:verdana;
+	font-size: 20px;
+	font-variant: small-caps;
+	color: #87421F;
+}	
+}
+/* visited link */
+	a:visited 
+	{
+    		color: #D99A6C;
+			
+	}

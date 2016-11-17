@@ -1,0 +1,71 @@
+ body 
+{
+ 	background: #FFCBA4;
+	color: #87421F;
+}
+
+.form-signin-heading
+{
+	font-family: verdana;
+	font-size: 20px;
+	font-variant: small-caps;
+}
+
+.container
+{
+	max-width: 1000px;
+    padding: 25px;
+	border-radius: 5%;
+	max-height: 1000px;	
+	border: 1px #ffcccc;
+	border-radius: 5px;
+	border-top-style: solid;
+	border-top: 1px solid #D27D46;
+	border-left-style: solid;
+	border-left: 1px solid #D27D46;
+	border-bottom-style: solid;
+	border-bottom: 1px solid #D27D46;
+	border-right-style: solid;
+	border-right: 1px solid #D27D46;
+}
+
+.form-signin 
+{
+    max-width: 1000px;
+    padding: 25px;
+	border-radius: 5%;
+	max-height: 1000px;	
+	border: 1px #ffcccc;
+	border-radius: 5px;
+	border-top-style: solid;
+	border-top: 1px solid #D27D46;
+	border-left-style: solid;
+	border-left: 1px solid #D27D46;
+	border-bottom-style: solid;
+	border-bottom: 1px solid #D27D46;
+	border-right-style: solid;
+	border-right: 1px solid #D27D46;
+}
+
+.form-signin 
+{
+    padding: 50px;
+    font-size: 20px;
+}
+
+.form-control 
+{
+	padding: 50px;
+    font-size: 20px;
+}
+
+h5
+{
+	color:#87421F ;
+}
+
+h3
+{
+	
+	color:#87421F;
+}
