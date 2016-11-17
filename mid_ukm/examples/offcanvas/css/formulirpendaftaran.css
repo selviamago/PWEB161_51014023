@@ -1,0 +1,30 @@
+ body 
+{
+ 	background: #FFCBA4;
+}
+
+.form-signin 
+{
+	
+    max-width: 370px;
+    padding: 25px;
+    
+}
+
+.form-signin .form-control 
+{
+   
+    padding: 14px;
+    font-size: 16px;
+}
+
+h4
+{
+	color:#DA8A67 ;
+}
+
+h2
+{
+	
+	color:#87421F;
+}
